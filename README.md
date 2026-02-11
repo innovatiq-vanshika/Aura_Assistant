@@ -1,0 +1,1 @@
+A smart virtual assistant application designed to simplify daily tasks. It supports features like real-time temperature checks, dictionary lookups, note management, to-do list organization, voice recognition, and built-in calculation capabilities.
